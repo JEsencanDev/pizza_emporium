@@ -1,0 +1,9 @@
+
+.submit-btn, .reset-btn {
+	background-color: black;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}

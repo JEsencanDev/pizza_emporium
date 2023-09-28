@@ -1,0 +1,61 @@
+
+body {
+	background-color: darkorange;
+}
+
+.title-name {
+	margin-bottom:50px;
+	margin-bottom: 100px;
+}
+
+.specialties {
+	color: black;
+	font-family: Arial;
+	font-size: 14px;
+	width: 225px;
+	font-weight: bold;
+}	
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 60px;
+}
+
+
+.container {
+	display: inline-block;
+	margin-left: 100px;
+	width: 300px;
+}
+
+
+.pizza {
+	width:250px;
+	height: 375px;
+}
+
+.pizza:hover {
+	cursor:pointer;
+	opacity: 0.8;
+}
+
+.pizza:active {
+	cursor:pointer;
+	opacity: 0.5;
+}
+
+.navbar {
+	display:block;
+}
+
+.footer {
+	margin-top: 50px;
+	background-color:black;
+	padding-top:20px;
+	padding-bottom: 20px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-family: Arial;
+}

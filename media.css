@@ -1,0 +1,18 @@
+
+
+@media (min-width: 481px) {
+	p {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 500px) {
+	.specialties {
+		font-size: 15px;
+	}
+	.container {
+		width: 100px;
+		display: inline-block;
+	}
+
+}

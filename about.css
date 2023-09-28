@@ -1,0 +1,39 @@
+
+body {
+	background-color: darkorange;
+}
+
+footer {
+	margin-top: 50px;
+	background-color:black;
+	padding-top:20px;
+	padding-bottom: 20px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-family: Arial;
+	margin-bottom:0;
+}
+
+p {
+	font-size: 30px;
+	font-family: Arial;
+}
+
+.pizza-container {
+	width: 300px;
+	display:inline-block;
+	vertical-align: top;
+	margin-left: 50px;
+}
+
+div > img {
+	width: 100%;
+	display:inline-block;
+	height: 200px;
+}
+
+div > p {
+	font-size: 20px;
+	width: 250px;
+}

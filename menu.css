@@ -1,0 +1,54 @@
+body {
+	background-color: darkorange;
+	margin-bottom: 0;
+}
+
+.footer {
+	margin-top: 50px;
+	background-color:black;
+	padding-top:20px;
+	padding-bottom: 20px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-family: Arial;
+	margin-bottom:0;
+}
+
+div {
+	display:inline-block;
+}
+
+h3 {
+	color: black;
+	text-decoration: underline;
+}
+
+li {
+	color: black;
+}
+
+.navbar {
+	display:block;
+}
+
+div > ul.links > li {
+	text-decoration:underline ;
+	cursor: pointer;
+}
+
+.family-info {
+	display:inline-block;
+	width: 200px;
+	text-align: top;
+}
+
+.people {
+	display: block;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.image-people {
+	width: 250px;
+}
